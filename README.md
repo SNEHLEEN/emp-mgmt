@@ -1,7 +1,10 @@
 # Employee Management System
 
 
-Create a .env file
+#Create a .env file
+
+
+
 REACT_APP_FIREBASE_PROJECT_ID="employee-management-4425a"
 REACT_APP_FIREBASE_API_KEY="AIzaSyAYA6d_zSz_MzR3vVQ0teOfVFuKWHUWFDA"
 REACT_APP_FIREBASE_AUTH_DOMAIN="employee-management-4425a.firebaseapp.com"
